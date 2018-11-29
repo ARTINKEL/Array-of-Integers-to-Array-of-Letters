@@ -1,3 +1,5 @@
+# Austin Tinkel
+# 11/29/2018
 import string
 import random
 
