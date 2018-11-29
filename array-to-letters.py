@@ -9,8 +9,6 @@ done = False
 counter = 0
 
 def convert_array(array):
-    for x in array:
-        print(len(str(x)))
 
     for x in array:
         s = ""
