@@ -5,7 +5,7 @@ Converts an array of numbers to an array of strings of random letters of length 
 
 
 For example:
-Input Array: [1, 2, 3]
 
+Input Array: [1, 2, 3]
 
 Output Array: [L, uT, vWp]
